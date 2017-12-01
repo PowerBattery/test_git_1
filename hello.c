@@ -2,5 +2,6 @@
 
 int main(void)
 {
+  printf("hello!\n");
   retrun 0;
 }
